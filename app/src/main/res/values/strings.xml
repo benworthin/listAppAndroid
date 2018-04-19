@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ListApp</string>
+
+    <string-array name="items">
+        <item>Xbox One X</item>
+        <item>PS4 Pro</item>
+        <item>Gaming PC</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$500.00</item>
+        <item>$450.00</item>
+        <item>$600.00</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Microsofts new 4K gaming machine.</item>
+        <item>Sonys new 4k gaming machine competing with Microsofts Xbox One X.</item>
+        <item>The best option. A custom built machine for gaming and productivity.</item>
+    </string-array>
+</resources>
